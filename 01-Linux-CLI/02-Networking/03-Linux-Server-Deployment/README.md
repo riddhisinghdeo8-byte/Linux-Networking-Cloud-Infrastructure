@@ -1,39 +1,41 @@
 
-# Linux Server Deployment
 
-## Objective
-To create, configure, secure and deploy a Linux server using a Virtual Machine.
+# Linux, Networking & Cloud Infrastructure
 
-## Deployment Workflow
+## Internship Project
 
-### 1. Create Virtual Machine
-- Set up a virtual machine.
-- Install Ubuntu Linux.
-- Configure the virtual machine.
+This repository contains practical work and documentation completed as part of my Linux, Networking and Cloud Infrastructure internship.
 
-### 2. Configure Linux
-- Update system packages.
-- Configure users and permissions.
-- Install necessary packages.
+## Key Objectives
 
-### 3. Secure Access
-- Configure SSH access.
-- Generate SSH keys.
-- Configure firewall rules.
+- Learn Linux CLI operations and system administration.
+- Understand files, permissions, users and groups.
+- Manage Linux processes and services.
+- Configure SSH keys and secure server access.
+- Understand IP addressing, DNS, ports and firewalls.
+- Deploy and test a Linux server.
 
-### 4. Deploy Service
-- Install Nginx web server.
-- Start and enable the Nginx service.
-- Verify the web server configuration.
+## Project Structure
 
-### 5. Test Connectivity
-- Check the server IP address.
-- Test network connectivity.
-- Access the Nginx web page.
-- Verify that the service is running.
+| Folder | Description |
+|---|---|
+| 01-Linux-CLI | Linux commands and administration |
+| 02-Networking | Networking fundamentals and configurations |
+| 03-Linux-Server-Deployment | Linux server setup and deployment |
 
-## Expected Result
-A successfully configured Linux server with secure access and a running web service.
+## Technologies & Tools
 
-## Status
+- Ubuntu Linux
+- Linux Terminal
+- Git & GitHub
+- SSH
+- Nginx
+- Networking Utilities
+
+## Project Status
+
 In Progress
+
+## Author
+
+Riddhi Singhdeo
