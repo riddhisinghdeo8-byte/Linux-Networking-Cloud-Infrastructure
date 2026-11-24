@@ -113,4 +113,16 @@ Screenshots of VM configuration, Linux setup, SSH configuration, Nginx status an
 
 ## Status
 
+## Deployment Result
+
+- Operating System: Ubuntu Server 26.04
+- Virtual Machine: Oracle VirtualBox
+- Web Server: Nginx
+- Network Mode: NAT
+- Port Forwarding: Host 8080 → Guest 80
+- Firewall: UFW
+- Website Status: Successfully deployed
+- Testing: Accessed through http://localhost:8080
+- Verification: Nginx welcome page displayed successfully.
+
 Documentation Added – Deployment Evidence Pending
