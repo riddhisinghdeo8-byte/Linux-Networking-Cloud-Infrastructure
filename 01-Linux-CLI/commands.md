@@ -77,3 +77,15 @@ Linux command-line operations, file management, permissions, user management, pr
 ## Status
 
 Completed
+
+## Practical Verification
+
+- Checked current user identity using `id`.
+- Viewed user group membership using `groups`.
+- Practised process management using `sleep`, `ps`, and `kill`.
+- Generated SSH keys using Ed25519.
+- Verified SSH service using systemctl.
+- Checked Nginx service status.
+- Tested DNS resolution using nslookup.
+- Checked listening ports using ss.
+- Configured UFW firewall rules for HTTP and SSH.
