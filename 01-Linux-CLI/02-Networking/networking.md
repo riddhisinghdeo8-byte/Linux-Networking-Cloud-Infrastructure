@@ -110,4 +110,15 @@ Networking commands and concepts for IP addressing, DNS, ports, firewalls and se
 
 ## Status
 
+## Practical Results
+
+- Checked server IP address using hostname -I and ip addr.
+- Tested DNS resolution using nslookup google.com.
+- Checked listening network ports using ss.
+- Configured UFW firewall.
+- Allowed HTTP traffic on port 80.
+- Allowed SSH traffic using OpenSSH.
+- Configured VirtualBox NAT port forwarding (8080 → 80).
+- Tested website connectivity from Windows browser.
+
 Documentation Added – Practical Verification Pending
